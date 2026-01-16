@@ -1,0 +1,8 @@
+Package: Jost2025-PKpredictionRat
+Title: Scripts for table and figure generation
+Authors@R: c(
+    person("Felix", "Jost", , "felix.jost@sanofi.com", role = "aut")
+    )
+Description: Provides scripts to generate the tables and figures within the publication Jost2025.
+License: Apache License (>= 2.0), MPL-2.0 | file LICENSE, MIT + file LICENSE and Part of R (GPL-2 | GPL-3)
+Imports: arrow, data.table, dplyr, ggplot2, grid, readr, readxl, scales
